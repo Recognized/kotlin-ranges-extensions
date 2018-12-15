@@ -1,4 +1,4 @@
-package vladsaif.kotlin.ranges.extensions
+package com.github.recognized.kotlin.ranges.extensions
 
 import kotlin.Comparator
 import kotlin.math.max
